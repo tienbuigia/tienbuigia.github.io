@@ -7,5 +7,5 @@ body {
 img {
 	display: block;
 	margin: auto;
-	max-width: device-width;
+	max-width: 100%;
 }
