@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://tienbuigia.xyz/</loc>
+    <lastmod>2022-07-13T21:46:27+07:00</lastmod>
+  </url><url>
+    <loc>https://tienbuigia.xyz/tags/hugo/</loc>
+    <lastmod>2022-07-13T19:53:51+07:00</lastmod>
+  </url><url>
+    <loc>https://tienbuigia.xyz/posts/my-first-post/</loc>
+    <lastmod>2022-07-13T19:53:51+07:00</lastmod>
+  </url><url>
+    <loc>https://tienbuigia.xyz/tags/markdown/</loc>
+    <lastmod>2022-07-13T19:53:51+07:00</lastmod>
+  </url><url>
+    <loc>https://tienbuigia.xyz/posts/</loc>
+    <lastmod>2022-07-13T19:53:51+07:00</lastmod>
+  </url><url>
+    <loc>https://tienbuigia.xyz/tags/</loc>
+    <lastmod>2022-07-13T19:53:51+07:00</lastmod>
+  </url><url>
+    <loc>https://tienbuigia.xyz/categories/</loc>
+  </url>
+</urlset>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello on Tien Bui Gia</title>
+    <link>https://tienbuigia.xyz/</link>
+    <description>Recent content in Hello on Tien Bui Gia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>GPL3</copyright>
+    <lastBuildDate>Wed, 13 Jul 2022 21:46:27 +0700</lastBuildDate><atom:link href="https://tienbuigia.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>learn markdown</title>
+      <link>https://tienbuigia.xyz/posts/my-first-post/</link>
+      <pubDate>Wed, 13 Jul 2022 19:53:51 +0700</pubDate>
+      
+      <guid>https://tienbuigia.xyz/posts/my-first-post/</guid>
+      <description>Hello! I&amp;rsquo;m gonna try out markdown things
+TODO: eat. sleep. smash keyboard. These are some words: italic bold normal.
+Anh yeu nhung.
+- me
+First line with two spaces after.
+this is the next line.
+this is next paragraph. anh yeu Nhung.
+item 1 item 2 item 3 item 3.1 item 3.2 todo done not done #include &amp;lt;stdio.h&amp;gt; int main() { printf(&amp;quot;I love yout\n&amp;quot;); return 0; } horizontal rule. escape: \* mother fucker.</description>
+      <content>&lt;h2 id=&#34;hello&#34;&gt;Hello!&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m gonna try out markdown things&lt;/p&gt;
+&lt;h2 id=&#34;todo&#34;&gt;TODO:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; eat.&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; sleep.&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; smash keyboard.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These are some words: &lt;em&gt;italic&lt;/em&gt; &lt;strong&gt;bold&lt;/strong&gt; normal.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Anh yeu nhung.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;- me&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;First line with two spaces after.&lt;br&gt;
+this is the next line.&lt;/p&gt;
+&lt;p&gt;this is next paragraph. &lt;em&gt;&lt;strong&gt;anh yeu Nhung&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;item 1&lt;/li&gt;
+&lt;li&gt;item 2&lt;/li&gt;
+&lt;li&gt;item 3
+&lt;ul&gt;
+&lt;li&gt;item 3.1&lt;/li&gt;
+&lt;li&gt;item 3.2&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; todo done&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; not done&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&#34;https://codeberg.org/tienbuigia&#34;&gt;&lt;img src=&#34;images/nhung.jpg&#34; alt=&#34;an image&#34; title=&#34;nhung&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;#include &amp;lt;stdio.h&amp;gt;
+int main() {
+	printf(&amp;quot;I love yout\n&amp;quot;);
+	return 0;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;p&gt;horizontal rule. escape: \* mother fucker.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-c&#34; data-lang=&#34;c&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;#include&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;&amp;lt;stdio.h&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;int&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;() {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	printf(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;really?&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;\n&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	&lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content>
+    </item>
+    
+  </channel>
+</rss>
